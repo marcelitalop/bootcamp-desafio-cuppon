@@ -1,0 +1,15 @@
+body{
+    font-family: "Roboto",sans-serif;
+  }
+  
+  .cupon{
+    width: 100px;
+  }
+  .bg-green {
+    background-color: #28a745;
+  }
+  
+  
+  .green {
+    color: #28a745;
+  }
